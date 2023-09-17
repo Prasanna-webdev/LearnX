@@ -1,0 +1,69 @@
+.cbutton{
+
+    display: flex;
+padding: 7.794px 12.99px;
+align-items: center;
+gap: 6.495px;
+
+border-radius: 649.519px;
+background: linear-gradient(180deg, #8146FF 0%, #6633D2 100%);
+
+   }
+
+   .cbuttoncomingsoon{
+
+    display: flex;
+padding: 7.794px 12.99px;
+align-items: center;
+gap: 6.495px;
+font-size: 12px;
+border-radius: 649.519px;
+background: linear-gradient(97.2deg, rgb(235, 62, 62) 10.5%, rgb(101, 46, 229) 93.7%);
+color:white
+
+   }
+
+ 
+   @media (min-width: 919px) {
+    .heading{
+
+        width: 50em;
+       }
+
+   }
+   @media (min-width: 500px) and (max-width: 919px) {
+    .heading{
+
+        width: 30em;
+       }
+
+   }
+
+
+   @media (min-width:490px) and (max-width: 500px) {
+    .heading{
+
+        width: 28em;
+       }
+
+   }
+   @media (max-width: 490px) {
+    .heading{
+
+        width: 330px;
+
+       
+       }
+
+   }
+  
+  
+  .coursecards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+  }
+
+  /* .card{
+    padding:2px;
+  } */
