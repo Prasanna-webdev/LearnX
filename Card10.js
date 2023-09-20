@@ -91,44 +91,4 @@ function Courses() {
 
    
 
-<section >
-  <ul>
-    <li>
-      <strong>Automated DevRel for Web 3 Protocols:</strong> Our platform simplifies the DevRel process for Web 3 protocols
-      by creating high-quality, informative courses and tutorials. We bridge the gap between developers and complex decentralized
-      technologies, making the learning journey seamless and rewarding.
-    </li>
-    <li>
-      <strong>Empowering over 2000 Students:</strong> With a thriving community of over 2000 students, Connectverse is at the forefront
-      of educating and nurturing talent in the Web 3 space. Join our platform to become part of an ever-growing network of skilled
-      and passionate developers.
-    </li>
-    <li>
-      <strong>Seamless B2B Solutions:</strong> As a B2B company, we understand the unique needs of businesses operating in the Web 3 ecosystem.
-      Our tailor-made solutions cater to the specific requirements of our clients, enabling them to enhance their developer relations and drive adoption.
-    </li>
-    <li>
-      <strong>Physical Workshops for Holistic Learning:</strong> We go beyond digital education by organizing physical workshops in colleges across India.
-      Our team of experts travels the length and breadth of the country, imparting hands-on knowledge and fostering practical understanding of cutting-edge Web 3 technologies.
-    </li>
-    <li>
-      <strong>End-to-End Web 3 Ecosystem Support:</strong> Connectverse is committed to supporting the entire Web 3 ecosystem. From providing valuable resources
-      to facilitating partnerships and collaborations, we act as a catalyst for growth and innovation.
-    </li>
-    <li>
-      <strong>Thought Leadership and Thoughtful Education:</strong> Our courses are designed and curated by industry experts, ensuring that our students receive the
-      most up-to-date and relevant information. We embrace thought leadership and believe in empowering developers to think beyond boundaries.
-    </li>
-    <li>
-      <strong>Secure and Trustworthy:</strong> Security is paramount in the Web 3 space, and we prioritize safeguarding the interests of our users.
-      Trust is the foundation of our platform, and we maintain the highest standards of data privacy and integrity.
-    </li>
-  </ul>
-</section>
-    </div>
-
-    </div>
-  )
-}
-
-export default Courses
+default Courses
